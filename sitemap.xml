@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- トップページ -->
+  <url>
+    <loc>https://bridalfair-tokuten.jp/</loc>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- 診断ページ -->
+  <url>
+    <loc>https://bridalfair-tokuten.jp/diagnosis</loc>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- 特典比較記事ページ -->
+  <url>
+    <loc>https://bridalfair-tokuten.jp/articles/</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- お問い合わせ -->
+  <url>
+    <loc>https://bridalfair-tokuten.jp/contact</loc>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- プライバシーポリシー -->
+  <url>
+    <loc>https://bridalfair-tokuten.jp/privacy-policy</loc>
+    <priority>0.5</priority>
+  </url>
+
+</urlset>
